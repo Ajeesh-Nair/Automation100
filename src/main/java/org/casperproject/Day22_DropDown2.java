@@ -14,7 +14,7 @@ public class Day22_DropDown2 {
         // Initialize the WebDriver
         WebDriver driver = new ChromeDriver();
 
-        // Navigate to the SauceDemo login page
+        // Navigate to the LambdaTest
         driver.get("https://www.lambdatest.com/selenium-playground/select-dropdown-demo");
         driver.manage().window().maximize();
 
